@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in Brooklyn.
+Thank you for your interest in Think Different Production.
 
 ## Contributions
 
