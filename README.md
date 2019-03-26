@@ -1,6 +1,6 @@
 ![](https://github.com/pedrommcarrasco/Brooklyn/blob/master/Design/logo.jpg?raw=true)
 
-> Screen Saver by [Pedro Carrasco](https://twitter.com/pedrommcarrasco) based on the animations presented during **Apple Special Event** (October 30, 2018) from the Brooklyn Academy of Music, Howard Gilman Opera House.
+> Screen Saver by [Ed Knittel](https://twitter.com/edknittel) based on the animations presented during **Apple Special Event** (March 25, 2019) from the Steve Jobs Theater at Apple Park in Cupertino, CA USA.
 
 <p align="center">
     <img src="https://github.com/pedrommcarrasco/Brooklyn/blob/master/Design/showcase.gif?raw=true" alt="Example"/>
@@ -13,9 +13,6 @@
 * Doesn't require internet connection
 * Homebrew support
 * Light & Dark theme
-* Select which animations you want to see
-* Loop each animation how many times you want
-* Make the animations' order random
 
 <p align="center">
     <img src="https://github.com/pedrommcarrasco/Brooklyn/blob/master/Design/preferenceMenu.png?raw=true" alt="Example"/>
@@ -23,13 +20,13 @@
 
 ## Installation 📦
 
-Independently of how you install **Brooklyn**, please **close your System Preferences**
+Independently of how you install **Think Different Production**, please **close your System Preferences**
 
 ### Manual :hand:
 
 1. [Click here to Download](https://github.com/pedrommcarrasco/Brooklyn/releases/download/2.0.1/Brooklyn.saver.zip)
-2. Open **Brooklyn.saver** (double click)
-3. `"Brooklyn.saver" can't be opened because it is from an unidentified developer` will appear, press `OK`
+2. Open **Think Different Production.saver** (double click)
+3. `"Think Different Production.saver" can't be opened because it is from an unidentified developer` will appear, press `OK`
 4. Open Preferences
 5. Select Security & Privacy
 6. Select `General`
@@ -38,19 +35,19 @@ Independently of how you install **Brooklyn**, please **close your System Prefer
 ### Homebrew 🍺
 
 1. Open terminal
-2. Enter `brew cask install brooklyn`
+2. Enter `brew cask install thinkdifferentproduction`
 
 ## Uninstallation 🗑️
 
 ### Manual :hand:
 
-- Right-click on Brooklyn in System Preferences and select `Delete Brooklyn`, or
-- Delete `Brooklyn.saver` either in `/Library/Screen Savers` or `/Users/USERNAME/Library/Screen Savers`. 
+- Right-click on Think Diferent Production in System Preferences and select `Delete Think Different Production`, or
+- Delete `Think Different Production.saver` either in `/Library/Screen Savers` or `/Users/USERNAME/Library/Screen Savers`. 
 
 ### Homebrew 🍺
 
 1. Open terminal
-2. Enter `brew cask uninstall brooklyn`
+2. Enter `brew cask uninstall thinkdifferentproduction`
 
 ## Compatibility 🔧
 
