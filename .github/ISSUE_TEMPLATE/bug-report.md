@@ -7,8 +7,8 @@ about: Create a report to help us improve
 #### General troubleshooting
 
 Before logging an issue please verify that:
-- [ ] You have the latest version installed at https://github.com/pedrommcarrasco/Brooklyn/releases
-- [ ] Your issue isn't mentioned in our [issues](https://github.com/pedrommcarrasco/Brooklyn/issues). 
+- [ ] You have the latest version installed at https://github.com/edknittel/Think-Different-Production/releases
+- [ ] Your issue isn't mentioned in our [issues](https://github.com/edknittel/Think-Different-Production/issues). 
 
 If none of this fixes your issue, tell us more about it.
 
