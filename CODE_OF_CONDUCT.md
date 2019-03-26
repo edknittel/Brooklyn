@@ -1,4 +1,4 @@
-# Brooklyn Covenant Code of Conduct
+# Think Different Production Covenant Code of Conduct
 
 ## Our Pledge
 
